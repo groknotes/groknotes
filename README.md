@@ -2,7 +2,7 @@
 
 Handschriftliche Notizen-App (HTML) – GoodNotes-ähnlich, im Browser.
 
-Einfach `groknotes.html` im Browser öffnen.
+Einfach öffnen bzw. als GitHub Pages nutzen: **`index.html`** ist die App.
 
 ## Features (Auswahl)
 - Stift, Radierer, Textmarker, Auswahl
